@@ -6,5 +6,5 @@ import com.atarraya.model.VentaProducto;
 
 
 public interface IVentaProductoService {
-	List<VentaProducto> listarProductoPorVenta(Integer idVenta);
+	List<VentaProducto>listarProductoPorVenta(Integer idVenta);
 }
